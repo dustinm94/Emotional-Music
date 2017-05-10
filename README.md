@@ -10,3 +10,7 @@ This really taught me how to use API's and things like headers. I used spotipy, 
 
 # What I struggled with
 My main problem was finding something that would play an actual playlist from spotify, at the moment I have not found an API or library that is cable of doing that so what I did, was use spotipy's "track()" feature to choose a random song from playlists that are associated with moods. The way I did this was take the top five URI's for each mood play list put them in a list and use the random library that is built into python to choose a song from each emotions list.
+
+
+test url: http://www.swiss-smile-beauty.com/uploads/pics/brand1.jpg
+outcome was happiness
