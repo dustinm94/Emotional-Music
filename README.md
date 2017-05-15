@@ -1,4 +1,4 @@
-# Emotional-Music
+# ImFeelinThis
 Finds a Playlist based on your emotions. Using facial Recognition.
 
 I have used Microsofts Emotion API, which scans pictures and asses the emotion.
